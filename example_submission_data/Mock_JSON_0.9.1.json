@@ -1,0 +1,2239 @@
+{
+    "has_analysis": [],
+    "has_experiment": [
+        {
+            "alias": "607d762d98e252000113bb3b",
+            "biological_replicates": null,
+            "description": "2021-Master-H021-Uhrig-RNA-Paired-Illumina-Hiseq-Xten-Illumina-Truseq-RNA-part2",
+            "technical_replicates": null,
+            "title": "2021-Master-H021-Uhrig-RNA-Paired-Illumina-Hiseq-Xten-Illumina-Truseq-RNA-part2",
+            "type": "RNA-Seq",
+            "schema_type": "CreateExperiment",
+            "schema_version": "0.9.0",
+            "has_file": [
+                "ReMaster_File_0",
+                "ReMaster_File_1",
+                "ReMaster_File_6",
+                "ReMaster_File_7",
+                "ReMaster_File_38",
+                "ReMaster_File_39",
+                "ReMaster_File_40",
+                "ReMaster_File_41"
+            ],
+            "has_protocol": [
+                "libprep_607d762d98e252000113bb3b",
+                "seq_alias_607d762d98e252000113bb3b"
+            ],
+            "has_sample": [
+                "EGAN00003046295",
+                "EGAN00003046474",
+                "EGAN00003046247"
+            ],
+            "has_study": "EGAS00001004813"
+        },
+        {
+            "alias": "607d7af198e252000113bbbb",
+            "biological_replicates": null,
+            "description": "2021-Master-H021-Uhrig-RNA-Paired-Illumina-Hiseq-X-ten-Illumina-TruSeq-stranded-mRNA-part-only",
+            "technical_replicates": null,
+            "title": "2021-Master-H021-Uhrig-RNA-Paired-Illumina-Hiseq-X-ten-Illumina-TruSeq-stranded-mRNA-part-only",
+            "type": "RNA-Seq",
+            "schema_type": "CreateExperiment",
+            "schema_version": "0.9.0",
+            "has_file": [
+                "ReMaster_File_2",
+                "ReMaster_File_3",
+                "ReMaster_File_32",
+                "ReMaster_File_33"
+            ],
+            "has_protocol": [
+                "libprep_607d7af198e252000113bbbb",
+                "seq_alias_607d7af198e252000113bbbb"
+            ],
+            "has_sample": [
+                "EGAN00003046324",
+                "EGAN00003046575"
+            ],
+            "has_study": "EGAS00001004813"
+        },
+        {
+            "alias": "605cb1a498e25200017db08c",
+            "biological_replicates": null,
+            "description": "2021-Master-H021-Uhrig-RNA-Paired-Illumina-Hiseq4000-Illumina-TruSeq-RNA-part1",
+            "technical_replicates": null,
+            "title": "2021-Master-H021-Uhrig-RNA-Paired-Illumina-Hiseq4000-Illumina-TruSeq-RNA-part1",
+            "type": "RNA-Seq",
+            "schema_type": "CreateExperiment",
+            "schema_version": "0.9.0",
+            "has_file": [
+                "ReMaster_File_4",
+                "ReMaster_File_5"
+            ],
+            "has_protocol": [
+                "libprep_605cb1a498e25200017db08c",
+                "seq_alias_605cb1a498e25200017db08c"
+            ],
+            "has_sample": [
+                "EGAN00003046473"
+            ],
+            "has_study": "EGAS00001004813"
+        },
+        {
+            "alias": "605c9a0e98e25200017da9dd",
+            "biological_replicates": null,
+            "description": "2021-Master-H021-Uhrig-RNA-Paired-runs-fastqs-RNA-PAIRED-Illumina-HiSeq_2500-Illumina_TruSeq_RNA-part1",
+            "technical_replicates": null,
+            "title": "2021-Master-H021-Uhrig-RNA-Paired-runs-fastqs-RNA-PAIRED-Illumina-HiSeq_2500-Illumina_TruSeq_RNA-part1",
+            "type": "RNA-Seq",
+            "schema_type": "CreateExperiment",
+            "schema_version": "0.9.0",
+            "has_file": [
+                "ReMaster_File_8",
+                "ReMaster_File_9",
+                "ReMaster_File_9",
+                "ReMaster_File_10",
+                "ReMaster_File_11"
+            ],
+            "has_protocol": [
+                "libprep_605c9a0e98e25200017da9dd",
+                "seq_alias_605c9a0e98e25200017da9dd"
+            ],
+            "has_sample": [
+                "EGAN00003046475"
+            ],
+            "has_study": "EGAS00001004813"
+        },
+        {
+            "alias": "605ca8d798e25200017daf40",
+            "biological_replicates": null,
+            "description": "2021-Master-H021-Uhrig-RNA-Paired-Illumina-Hiseq4000-Illumina-TruSeq-stranded-mRNA-part1",
+            "technical_replicates": null,
+            "title": "2021-Master-H021-Uhrig-RNA-Paired-Illumina-Hiseq4000-Illumina-TruSeq-stranded-mRNA-part1",
+            "type": "RNA-Seq",
+            "schema_type": "CreateExperiment",
+            "schema_version": "0.9.0",
+            "has_file": [
+                "ReMaster_File_12",
+                "ReMaster_File_13",
+                "ReMaster_File_14",
+                "ReMaster_File_15"
+            ],
+            "has_protocol": [
+                "libprep_605ca8d798e25200017daf40",
+                "seq_alias_605ca8d798e25200017daf40"
+            ],
+            "has_sample": [
+                "EGAN00003046664"
+            ],
+            "has_study": "EGAS00001004813"
+        },
+        {
+            "alias": "607d4ac598e252000113b64c",
+            "biological_replicates": null,
+            "description": "2021-Master-H021-Uhrig-RNA-Paired-Illumina-Hiseq2500-Illumina-Truseq-RNA-part2",
+            "technical_replicates": null,
+            "title": "2021-Master-H021-Uhrig-RNA-Paired-Illumina-Hiseq2500-Illumina-Truseq-RNA-part2",
+            "type": "RNA-Seq",
+            "schema_type": "CreateExperiment",
+            "schema_version": "0.9.0",
+            "has_file": [
+                "ReMaster_File_16",
+                "ReMaster_File_17",
+                "ReMaster_File_18",
+                "ReMaster_File_19",
+                "ReMaster_File_20",
+                "ReMaster_File_17",
+                "ReMaster_File_21",
+                "ReMaster_File_28",
+                "ReMaster_File_29",
+                "ReMaster_File_30",
+                "ReMaster_File_31",
+                "ReMaster_File_34",
+                "ReMaster_File_35"
+            ],
+            "has_protocol": [
+                "libprep_607d4ac598e252000113b64c",
+                "seq_alias_607d4ac598e252000113b64c"
+            ],
+            "has_sample": [
+                "EGAN00003046652",
+                "EGAN00003046271",
+                "EGAN00003046572",
+                "EGAN00003046411"
+            ],
+            "has_study": "EGAS00001004813"
+        },
+        {
+            "alias": "607d61dc98e252000113b820",
+            "biological_replicates": null,
+            "description": "2021-Master-H021-Uhrig-RNA-Paired-Illumina-Hiseq4000-Illumina-TruSeq-stranded-mRNA-part2",
+            "technical_replicates": null,
+            "title": "2021-Master-H021-Uhrig-RNA-Paired-Illumina-Hiseq4000-Illumina-TruSeq-stranded-mRNA-part2",
+            "type": "RNA-Seq",
+            "schema_type": "CreateExperiment",
+            "schema_version": "0.9.0",
+            "has_file": [
+                "ReMaster_File_22",
+                "ReMaster_File_23",
+                "ReMaster_File_24",
+                "ReMaster_File_25",
+                "ReMaster_File_26",
+                "ReMaster_File_27",
+                "ReMaster_File_36",
+                "ReMaster_File_37"
+            ],
+            "has_protocol": [
+                "libprep_607d61dc98e252000113b820",
+                "seq_alias_607d61dc98e252000113b820"
+            ],
+            "has_sample": [
+                "EGAN00003046396",
+                "EGAN00003046563",
+                "EGAN00003046413"
+            ],
+            "has_study": "EGAS00001004813"
+        },
+        {
+            "alias": "6080132c98e2520001140ea6",
+            "biological_replicates": null,
+            "description": "2021-Master-H021-Uhrig-RNA-Paired-Illumina-Hiseq2500-Agilent-strand-specific-RNA",
+            "technical_replicates": null,
+            "title": "2021-Master-H021-Uhrig-RNA-Paired-Illumina-Hiseq2500-Agilent-strand-specific-RNA",
+            "type": "RNA-Seq",
+            "schema_type": "CreateExperiment",
+            "schema_version": "0.9.0",
+            "has_file": [
+                "ReMaster_File_42",
+                "ReMaster_File_43",
+                "ReMaster_File_44",
+                "ReMaster_File_45"
+            ],
+            "has_protocol": [
+                "libprep_6080132c98e2520001140ea6",
+                "seq_alias_6080132c98e2520001140ea6"
+            ],
+            "has_sample": [
+                "EGAN00003046282"
+            ],
+            "has_study": "EGAS00001004813"
+        },
+        {
+            "alias": "60a3dc9c98e2520001afc147",
+            "biological_replicates": null,
+            "description": "2021-Master-H021-Uhrig-WGS-Paired-Illumina-Hiseq-Xten-Illumina-TruSeq-nano-DNA-part2",
+            "technical_replicates": null,
+            "title": "2021-Master-H021-Uhrig-WGS-Paired-Illumina-Hiseq-Xten-Illumina-TruSeq-nano-DNA-part2",
+            "type": "WGS",
+            "schema_type": "CreateExperiment",
+            "schema_version": "0.9.0",
+            "has_file": [
+                "ReMaster_File_46",
+                "ReMaster_File_50",
+                "ReMaster_File_51"
+            ],
+            "has_protocol": [
+                "libprep_60a3dc9c98e2520001afc147",
+                "seq_alias_60a3dc9c98e2520001afc147"
+            ],
+            "has_sample": [
+                "EGAN00003149968",
+                "EGAN00003150124",
+                "EGAN00003149965"
+            ],
+            "has_study": "EGAS00001004813"
+        },
+        {
+            "alias": "60af589b98e2520001b05bbb",
+            "biological_replicates": null,
+            "description": "2021-Master-H021-Uhrig-WGS-Paired-Illumina-Hiseq-Xten-Illumina-TruSeq-nano-DNA-part3",
+            "technical_replicates": null,
+            "title": "2021-Master-H021-Uhrig-WGS-Paired-Illumina-Hiseq-Xten-Illumina-TruSeq-nano-DNA-part3",
+            "type": "WGS",
+            "schema_type": "CreateExperiment",
+            "schema_version": "0.9.0",
+            "has_file": [
+                "ReMaster_File_47"
+            ],
+            "has_protocol": [
+                "libprep_60af589b98e2520001b05bbb",
+                "seq_alias_60af589b98e2520001b05bbb"
+            ],
+            "has_sample": [
+                "EGAN00003150123"
+            ],
+            "has_study": "EGAS00001004813"
+        },
+        {
+            "alias": "6152df4e98e252000175fe31",
+            "biological_replicates": null,
+            "description": "2021-Master-H021-Uhrig-WGS-Paired-Illumina-Hiseq-Xten-Illumina-TruSeq-nano-DNA-part12",
+            "technical_replicates": null,
+            "title": "2021-Master-H021-Uhrig-WGS-Paired-Illumina-Hiseq-Xten-Illumina-TruSeq-nano-DNA-part12",
+            "type": "WGS",
+            "schema_type": "CreateExperiment",
+            "schema_version": "0.9.0",
+            "has_file": [
+                "ReMaster_File_48",
+                "ReMaster_File_49"
+            ],
+            "has_protocol": [
+                "libprep_6152df4e98e252000175fe31",
+                "seq_alias_6152df4e98e252000175fe31"
+            ],
+            "has_sample": [
+                "EGAN00003149847",
+                "EGAN00003149857"
+            ],
+            "has_study": "EGAS00001004813"
+        }
+    ],
+    "has_project": {
+        "alias": "MASTER_remastered",
+        "description": "The NCT/DKFZ/DKTK MASTER (Molecularly Aided Stratification for Tumor Eradication) Program is a central platform for multidimensional characterization of patients with advanced rare cancers, as well as patients diagnosed with an incurable common malignancy at an unusually early age, seen at NCT Heidelberg, NCT Dresden, or one of the sites of the German Cancer Consortium (DKTK; Berlin, Essen/Düsseldorf, Frankfurt/Mainz, Freiburg, Munich, Tübingen).",
+        "has_attribute": null,
+        "title": "MASTER_remastered",
+        "schema_type": "CreateProject",
+        "schema_version": "0.9.0"
+    },
+    "has_publication": [
+        {
+            "abstract": "The clinical relevance of comprehensive molecular analysis in rare cancers is not established. We analyzed the molecular profiles and clinical outcomes of 1,310 patients (rare cancers, 75.5%) enrolled in a prospective observational study by the German Cancer Consortium that applies whole-genome/exome and RNA sequencing to inform the care of adults with incurable cancers. On the basis of 472 single and six composite biomarkers, a cross-institutional molecular tumor board provided evidence-based management recommendations, including diagnostic reevaluation, genetic counseling, and experimental treatment, in 88% of cases. Recommended therapies were administered in 362 of 1,138 patients (31.8%) and resulted in significantly improved overall response and disease control rates (23.9% and 55.3%) compared with previous therapies, translating into a progression-free survival ratio >1.3 in 35.7% of patients. These data demonstrate the benefit of molecular stratification in rare cancers and represent a resource that may promote clinical trial access and drug approvals in this underserved patient population. SIGNIFICANCE: Rare cancers are difficult to treat; in particular, molecular pathogenesis-oriented medical therapies are often lacking. This study shows that whole-genome/exome and RNA sequencing enables molecularly informed treatments that lead to clinical benefit in a substantial proportion of patients with advanced rare cancers and paves the way for future clinical trials.",
+            "alias": "doi: 10.1158/2159-8290.CD-21-0126",
+            "author": "Horak",
+            "journal": "Cancer Discovery",
+            "title": "Comprehensive Genomic and Transcriptomic Analysis for Guiding Therapeutic Decisions in Patients with Rare Cancers",
+            "xref": null,
+            "year": 2021,
+            "schema_type": "CreatePublication",
+            "schema_version": "0.9.0"
+        }
+    ],
+    "has_study": {
+        "affiliation": [
+            "DKFZ-HIPO"
+        ],
+        "alias": "EGAS00001004813",
+        "description": "Here we analyzed the molecular profiles and clinical outcomes of 1,310 patients (proportion of rare cancers, 75%) enrolled in a prospective observational study by the German Cancer Consortium that applies whole-genome/exome and RNA sequencing to inform the care of adults with incurable cancers. Based on 472 single and six composite biomarkers, a cross-institutional molecular tumor board provided evidence-based management recommendations, including diagnostic reevaluation, genetic counseling, and experimental treatment, in 88% of cases. Recommended therapies were administered in 362 of 1,138 patients (31.8%) and resulted in significantly improved response and disease control rates (23.9% and 55.3%, respectively) compared to previous therapies, translating into a progression-free survival ratio >1.3 in 35.7% of patients. ",
+        "has_attribute": null,
+        "has_project": "MASTER_remastered",
+        "has_publication": [
+            "doi: 10.1158/2159-8290.CD-21-0126"
+        ],
+        "title": "Comprehensive Genomic and Transcriptomic Analysis of Rare Cancers for Guiding of Therapy (H021)",
+        "type": "cancer_genomics",
+        "schema_type": "CreateStudy",
+        "schema_version": "0.9.0"
+    },
+    "has_data_access_committee": [
+        {
+            "alias": "DKFZ",
+            "name": "DKFZ",
+            "has_member": [
+                "EGAP00001000441"
+            ],
+            "main_contact": "EGAP00001000441",
+            "schema_type": "CreateDataAccessCommittee",
+            "schema_version": "0.9.0"
+        }
+    ],
+    "has_data_access_policy": [
+        {
+            "alias": "Data Transfer Agreement for the German Cancer Research Center",
+            "description": "Data Transfer Agreement for the German Cancer Research Center",
+            "has_data_access_committee": "DKFZ",
+            "has_data_use_permission": "DUO:0000026",
+            "has_data_use_modifier": null,
+            "name": "Data Transfer Agreement for the German Cancer Research Center",
+            "policy_text": "Data Transfer Agreement for the German Cancer Research Center",
+            "policy_url": "NA",
+            "schema_type": "CreateDataAccessPolicy",
+            "schema_version": "0.9.0"
+        }
+    ],
+    "has_dataset": [
+        {
+            "alias": "EGAD00001008844",
+            "description": "Rare cancer sequencing data of 23 runs in tumor/control pairs, which were uploaded to umbrella studies. The sequencing was always paired",
+            "has_analysis": null,
+            "has_data_access_policy": "Data Transfer Agreement for the German Cancer Research Center",
+            "has_experiment": [
+                "607d762d98e252000113bb3b",
+                "607d7af198e252000113bbbb",
+                "605cb1a498e25200017db08c",
+                "605c9a0e98e25200017da9dd",
+                "605ca8d798e25200017daf40",
+                "607d4ac598e252000113b64c",
+                "607d61dc98e252000113b820",
+                "6080132c98e2520001140ea6"
+            ],
+            "has_file": [
+                "ReMaster_File_0",
+                "ReMaster_File_1",
+                "ReMaster_File_2",
+                "ReMaster_File_3",
+                "ReMaster_File_4",
+                "ReMaster_File_5",
+                "ReMaster_File_6",
+                "ReMaster_File_7",
+                "ReMaster_File_8",
+                "ReMaster_File_9",
+                "ReMaster_File_10",
+                "ReMaster_File_11",
+                "ReMaster_File_12",
+                "ReMaster_File_13",
+                "ReMaster_File_14",
+                "ReMaster_File_15",
+                "ReMaster_File_16",
+                "ReMaster_File_17",
+                "ReMaster_File_18",
+                "ReMaster_File_19",
+                "ReMaster_File_20",
+                "ReMaster_File_21",
+                "ReMaster_File_22",
+                "ReMaster_File_23",
+                "ReMaster_File_24",
+                "ReMaster_File_25",
+                "ReMaster_File_26",
+                "ReMaster_File_27",
+                "ReMaster_File_28",
+                "ReMaster_File_29",
+                "ReMaster_File_30",
+                "ReMaster_File_31",
+                "ReMaster_File_32",
+                "ReMaster_File_33",
+                "ReMaster_File_34",
+                "ReMaster_File_35",
+                "ReMaster_File_36",
+                "ReMaster_File_37",
+                "ReMaster_File_38",
+                "ReMaster_File_39",
+                "ReMaster_File_40",
+                "ReMaster_File_41",
+                "ReMaster_File_42",
+                "ReMaster_File_43",
+                "ReMaster_File_44",
+                "ReMaster_File_45"
+            ],
+            "has_sample": [
+                "EGAN00003046295",
+                "EGAN00003046324",
+                "EGAN00003046473",
+                "EGAN00003046474",
+                "EGAN00003046475",
+                "EGAN00003046664",
+                "EGAN00003046652",
+                "EGAN00003046271",
+                "EGAN00003046396",
+                "EGAN00003046563",
+                "EGAN00003046572",
+                "EGAN00003046575",
+                "EGAN00003046411",
+                "EGAN00003046413",
+                "EGAN00003046247",
+                "EGAN00003046282"
+            ],
+            "title": "Dataset for synovial_sarcoma-RNA",
+            "type": [
+                "DKFZ-HIPO Data Access Committee of Heidelberg Center for Personalized Oncology"
+            ],
+            "schema_type": "CreateDataset",
+            "schema_version": "0.9.0",
+            "has_study": [
+                "EGAS00001004813"
+            ]
+        },
+        {
+            "alias": "EGAD00001008899",
+            "description": "Rare cancer sequencing data of 6 runs in tumor/control pairs, which were uploaded to umbrella studies. The sequencing was always paired",
+            "has_analysis": null,
+            "has_data_access_policy": "Data Transfer Agreement for the German Cancer Research Center",
+            "has_experiment": [
+                "60a3dc9c98e2520001afc147",
+                "60af589b98e2520001b05bbb",
+                "6152df4e98e252000175fe31"
+            ],
+            "has_file": [
+                "ReMaster_File_46",
+                "ReMaster_File_47",
+                "ReMaster_File_48",
+                "ReMaster_File_49",
+                "ReMaster_File_50",
+                "ReMaster_File_51"
+            ],
+            "has_sample": [
+                "EGAN00003149968",
+                "EGAN00003150123",
+                "EGAN00003149847",
+                "EGAN00003149857",
+                "EGAN00003150124",
+                "EGAN00003149965"
+            ],
+            "title": "Dataset for synovial_sarcoma-WHOLE_GENOME",
+            "type": [
+                "DKFZ-HIPO Data Access Committee of Heidelberg Center for Personalized Oncology"
+            ],
+            "schema_type": "CreateDataset",
+            "schema_version": "0.9.0",
+            "has_study": [
+                "EGAS00001004813"
+            ]
+        }
+    ],
+    "has_member": [
+        {
+            "alias": "EGAP00001000441",
+            "email": "EGAP00001000441",
+            "organization": "hipo_daco[at]dkfz-heidelberg[dot]de",
+            "schema_type": "CreateMember",
+            "schema_version": "0.9.0"
+        },
+        {
+            "alias": "EGAP00001000442",
+            "email": "EGAP00001000442",
+            "organization": "hipo_daco[at]dkfz-heidelberg[dot]de",
+            "schema_type": "CreateMember",
+            "schema_version": "0.9.0"
+        }
+    ],
+    "has_protocol": [
+        {
+            "alias": "libprep_607d762d98e252000113bb3b",
+            "description": "2021-Master-H021-Uhrig-RNA-Paired-Illumina-Hiseq-Xten-Illumina-Truseq-RNA-part2",
+            "end_bias": null,
+            "has_attribute": null,
+            "library_layout": "PAIRED",
+            "library_name": "2021-Master-H021-Uhrig-RNA-Paired-Illumina-Hiseq-Xten-Illumina-Truseq-RNA-part2",
+            "library_preparation": null,
+            "library_preparation_kit_manufacturer": null,
+            "library_preparation_kit_retail_name": "Illumina TruSeq RNA",
+            "library_selection": "unspecified",
+            "library_type": "TRANSCRIPTOMIC",
+            "primer": null,
+            "rnaseq_strandedness": null,
+            "target_regions": null,
+            "schema_type": "CreateLibraryPreparationProtocol",
+            "schema_version": "0.9.0"
+        },
+        {
+            "alias": "seq_alias_607d762d98e252000113bb3b",
+            "cell_barcode_offset": null,
+            "cell_barcode_read": null,
+            "cell_barcode_size": null,
+            "description": "RNA-Seq",
+            "flow_cell_id": null,
+            "flow_cell_type": null,
+            "has_attribute": null,
+            "instrument_model": "HiSeq X Ten",
+            "sample_barcode_read": null,
+            "seq_forward_or_reverse": null,
+            "sequencing_center": null,
+            "sequencing_read_length": null,
+            "target_coverage": null,
+            "type": null,
+            "umi_barcode_offset": null,
+            "umi_barcode_read": null,
+            "umi_barcode_size": null,
+            "schema_type": "CreateSequencingProtocol",
+            "schema_version": "0.9.0"
+        },
+        {
+            "alias": "libprep_607d7af198e252000113bbbb",
+            "description": "2021-Master-H021-Uhrig-RNA-Paired-Illumina-Hiseq-X-ten-Illumina-TruSeq-stranded-mRNA-part-only",
+            "end_bias": null,
+            "has_attribute": null,
+            "library_layout": "PAIRED",
+            "library_name": "2021-Master-H021-Uhrig-RNA-Paired-Illumina-Hiseq-X-ten-Illumina-TruSeq-stranded-mRNA-part-only",
+            "library_preparation": null,
+            "library_preparation_kit_manufacturer": null,
+            "library_preparation_kit_retail_name": "Illumina TruSeq stranded mRNA",
+            "library_selection": "unspecified",
+            "library_type": "TRANSCRIPTOMIC",
+            "primer": null,
+            "rnaseq_strandedness": null,
+            "target_regions": null,
+            "schema_type": "CreateLibraryPreparationProtocol",
+            "schema_version": "0.9.0"
+        },
+        {
+            "alias": "seq_alias_607d7af198e252000113bbbb",
+            "cell_barcode_offset": null,
+            "cell_barcode_read": null,
+            "cell_barcode_size": null,
+            "description": "RNA-Seq",
+            "flow_cell_id": null,
+            "flow_cell_type": null,
+            "has_attribute": null,
+            "instrument_model": "HiSeq X Ten",
+            "sample_barcode_read": null,
+            "seq_forward_or_reverse": null,
+            "sequencing_center": null,
+            "sequencing_read_length": null,
+            "target_coverage": null,
+            "type": null,
+            "umi_barcode_offset": null,
+            "umi_barcode_read": null,
+            "umi_barcode_size": null,
+            "schema_type": "CreateSequencingProtocol",
+            "schema_version": "0.9.0"
+        },
+        {
+            "alias": "libprep_605cb1a498e25200017db08c",
+            "description": "2021-Master-H021-Uhrig-RNA-Paired-Illumina-Hiseq4000-Illumina-TruSeq-RNA-part1",
+            "end_bias": null,
+            "has_attribute": null,
+            "library_layout": "PAIRED",
+            "library_name": "2021-Master-H021-Uhrig-RNA-Paired-Illumina-Hiseq4000-Illumina-TruSeq-RNA-part1",
+            "library_preparation": null,
+            "library_preparation_kit_manufacturer": null,
+            "library_preparation_kit_retail_name": "Illumina TruSeq RNA",
+            "library_selection": "unspecified",
+            "library_type": "TRANSCRIPTOMIC",
+            "primer": null,
+            "rnaseq_strandedness": null,
+            "target_regions": null,
+            "schema_type": "CreateLibraryPreparationProtocol",
+            "schema_version": "0.9.0"
+        },
+        {
+            "alias": "seq_alias_605cb1a498e25200017db08c",
+            "cell_barcode_offset": null,
+            "cell_barcode_read": null,
+            "cell_barcode_size": null,
+            "description": "RNA-Seq",
+            "flow_cell_id": null,
+            "flow_cell_type": null,
+            "has_attribute": null,
+            "instrument_model": "Illumina HiSeq 4000",
+            "sample_barcode_read": null,
+            "seq_forward_or_reverse": null,
+            "sequencing_center": null,
+            "sequencing_read_length": null,
+            "target_coverage": null,
+            "type": null,
+            "umi_barcode_offset": null,
+            "umi_barcode_read": null,
+            "umi_barcode_size": null,
+            "schema_type": "CreateSequencingProtocol",
+            "schema_version": "0.9.0"
+        },
+        {
+            "alias": "libprep_605c9a0e98e25200017da9dd",
+            "description": "2021-Master-H021-Uhrig-RNA-Paired-runs-fastqs-RNA-PAIRED-Illumina-HiSeq_2500-Illumina_TruSeq_RNA-part1",
+            "end_bias": null,
+            "has_attribute": null,
+            "library_layout": "PAIRED",
+            "library_name": "2021-Master-H021-Uhrig-RNA-Paired-runs-fastqs-RNA-PAIRED-Illumina-HiSeq_2500-Illumina_TruSeq_RNA-part1",
+            "library_preparation": null,
+            "library_preparation_kit_manufacturer": null,
+            "library_preparation_kit_retail_name": "Illumina TruSeq RNA",
+            "library_selection": "unspecified",
+            "library_type": "TRANSCRIPTOMIC",
+            "primer": null,
+            "rnaseq_strandedness": null,
+            "target_regions": null,
+            "schema_type": "CreateLibraryPreparationProtocol",
+            "schema_version": "0.9.0"
+        },
+        {
+            "alias": "seq_alias_605c9a0e98e25200017da9dd",
+            "cell_barcode_offset": null,
+            "cell_barcode_read": null,
+            "cell_barcode_size": null,
+            "description": "RNA-Seq",
+            "flow_cell_id": null,
+            "flow_cell_type": null,
+            "has_attribute": null,
+            "instrument_model": "Illumina HiSeq 2500",
+            "sample_barcode_read": null,
+            "seq_forward_or_reverse": null,
+            "sequencing_center": null,
+            "sequencing_read_length": null,
+            "target_coverage": null,
+            "type": null,
+            "umi_barcode_offset": null,
+            "umi_barcode_read": null,
+            "umi_barcode_size": null,
+            "schema_type": "CreateSequencingProtocol",
+            "schema_version": "0.9.0"
+        },
+        {
+            "alias": "libprep_605ca8d798e25200017daf40",
+            "description": "2021-Master-H021-Uhrig-RNA-Paired-Illumina-Hiseq4000-Illumina-TruSeq-stranded-mRNA-part1",
+            "end_bias": null,
+            "has_attribute": null,
+            "library_layout": "PAIRED",
+            "library_name": "2021-Master-H021-Uhrig-RNA-Paired-Illumina-Hiseq4000-Illumina-TruSeq-stranded-mRNA-part1",
+            "library_preparation": null,
+            "library_preparation_kit_manufacturer": null,
+            "library_preparation_kit_retail_name": "Illumina TruSeq stranded mRNA",
+            "library_selection": "unspecified",
+            "library_type": "TRANSCRIPTOMIC",
+            "primer": null,
+            "rnaseq_strandedness": null,
+            "target_regions": null,
+            "schema_type": "CreateLibraryPreparationProtocol",
+            "schema_version": "0.9.0"
+        },
+        {
+            "alias": "seq_alias_605ca8d798e25200017daf40",
+            "cell_barcode_offset": null,
+            "cell_barcode_read": null,
+            "cell_barcode_size": null,
+            "description": "RNA-Seq",
+            "flow_cell_id": null,
+            "flow_cell_type": null,
+            "has_attribute": null,
+            "instrument_model": "Illumina HiSeq 4000",
+            "sample_barcode_read": null,
+            "seq_forward_or_reverse": null,
+            "sequencing_center": null,
+            "sequencing_read_length": null,
+            "target_coverage": null,
+            "type": null,
+            "umi_barcode_offset": null,
+            "umi_barcode_read": null,
+            "umi_barcode_size": null,
+            "schema_type": "CreateSequencingProtocol",
+            "schema_version": "0.9.0"
+        },
+        {
+            "alias": "libprep_607d4ac598e252000113b64c",
+            "description": "2021-Master-H021-Uhrig-RNA-Paired-Illumina-Hiseq2500-Illumina-Truseq-RNA-part2",
+            "end_bias": null,
+            "has_attribute": null,
+            "library_layout": "PAIRED",
+            "library_name": "2021-Master-H021-Uhrig-RNA-Paired-Illumina-Hiseq2500-Illumina-Truseq-RNA-part2",
+            "library_preparation": null,
+            "library_preparation_kit_manufacturer": null,
+            "library_preparation_kit_retail_name": "Illumina TruSeq RNA",
+            "library_selection": "unspecified",
+            "library_type": "TRANSCRIPTOMIC",
+            "primer": null,
+            "rnaseq_strandedness": null,
+            "target_regions": null,
+            "schema_type": "CreateLibraryPreparationProtocol",
+            "schema_version": "0.9.0"
+        },
+        {
+            "alias": "seq_alias_607d4ac598e252000113b64c",
+            "cell_barcode_offset": null,
+            "cell_barcode_read": null,
+            "cell_barcode_size": null,
+            "description": "RNA-Seq",
+            "flow_cell_id": null,
+            "flow_cell_type": null,
+            "has_attribute": null,
+            "instrument_model": "Illumina HiSeq 2500",
+            "sample_barcode_read": null,
+            "seq_forward_or_reverse": null,
+            "sequencing_center": null,
+            "sequencing_read_length": null,
+            "target_coverage": null,
+            "type": null,
+            "umi_barcode_offset": null,
+            "umi_barcode_read": null,
+            "umi_barcode_size": null,
+            "schema_type": "CreateSequencingProtocol",
+            "schema_version": "0.9.0"
+        },
+        {
+            "alias": "libprep_607d61dc98e252000113b820",
+            "description": "2021-Master-H021-Uhrig-RNA-Paired-Illumina-Hiseq4000-Illumina-TruSeq-stranded-mRNA-part2",
+            "end_bias": null,
+            "has_attribute": null,
+            "library_layout": "PAIRED",
+            "library_name": "2021-Master-H021-Uhrig-RNA-Paired-Illumina-Hiseq4000-Illumina-TruSeq-stranded-mRNA-part2",
+            "library_preparation": null,
+            "library_preparation_kit_manufacturer": null,
+            "library_preparation_kit_retail_name": "Illumina TruSeq stranded mRNA",
+            "library_selection": "unspecified",
+            "library_type": "TRANSCRIPTOMIC",
+            "primer": null,
+            "rnaseq_strandedness": null,
+            "target_regions": null,
+            "schema_type": "CreateLibraryPreparationProtocol",
+            "schema_version": "0.9.0"
+        },
+        {
+            "alias": "seq_alias_607d61dc98e252000113b820",
+            "cell_barcode_offset": null,
+            "cell_barcode_read": null,
+            "cell_barcode_size": null,
+            "description": "RNA-Seq",
+            "flow_cell_id": null,
+            "flow_cell_type": null,
+            "has_attribute": null,
+            "instrument_model": "Illumina HiSeq 4000",
+            "sample_barcode_read": null,
+            "seq_forward_or_reverse": null,
+            "sequencing_center": null,
+            "sequencing_read_length": null,
+            "target_coverage": null,
+            "type": null,
+            "umi_barcode_offset": null,
+            "umi_barcode_read": null,
+            "umi_barcode_size": null,
+            "schema_type": "CreateSequencingProtocol",
+            "schema_version": "0.9.0"
+        },
+        {
+            "alias": "libprep_6080132c98e2520001140ea6",
+            "description": "2021-Master-H021-Uhrig-RNA-Paired-Illumina-Hiseq2500-Agilent-strand-specific-RNA",
+            "end_bias": null,
+            "has_attribute": null,
+            "library_layout": "PAIRED",
+            "library_name": "2021-Master-H021-Uhrig-RNA-Paired-Illumina-Hiseq2500-Agilent-strand-specific-RNA",
+            "library_preparation": null,
+            "library_preparation_kit_manufacturer": null,
+            "library_preparation_kit_retail_name": "Agilent strand-specific RNA",
+            "library_selection": "unspecified",
+            "library_type": "TRANSCRIPTOMIC",
+            "primer": null,
+            "rnaseq_strandedness": null,
+            "target_regions": null,
+            "schema_type": "CreateLibraryPreparationProtocol",
+            "schema_version": "0.9.0"
+        },
+        {
+            "alias": "seq_alias_6080132c98e2520001140ea6",
+            "cell_barcode_offset": null,
+            "cell_barcode_read": null,
+            "cell_barcode_size": null,
+            "description": "RNA-Seq",
+            "flow_cell_id": null,
+            "flow_cell_type": null,
+            "has_attribute": null,
+            "instrument_model": "Illumina HiSeq 2500",
+            "sample_barcode_read": null,
+            "seq_forward_or_reverse": null,
+            "sequencing_center": null,
+            "sequencing_read_length": null,
+            "target_coverage": null,
+            "type": null,
+            "umi_barcode_offset": null,
+            "umi_barcode_read": null,
+            "umi_barcode_size": null,
+            "schema_type": "CreateSequencingProtocol",
+            "schema_version": "0.9.0"
+        },
+        {
+            "alias": "libprep_60a3dc9c98e2520001afc147",
+            "description": "2021-Master-H021-Uhrig-WGS-Paired-Illumina-Hiseq-Xten-Illumina-TruSeq-nano-DNA-part2",
+            "end_bias": null,
+            "has_attribute": null,
+            "library_layout": "PAIRED",
+            "library_name": "2021-Master-H021-Uhrig-WGS-Paired-Illumina-Hiseq-Xten-Illumina-TruSeq-nano-DNA-part2",
+            "library_preparation": null,
+            "library_preparation_kit_manufacturer": null,
+            "library_preparation_kit_retail_name": "Illumina TruSeq Nano DNA",
+            "library_selection": "unspecified",
+            "library_type": "GENOMIC",
+            "primer": null,
+            "rnaseq_strandedness": null,
+            "target_regions": null,
+            "schema_type": "CreateLibraryPreparationProtocol",
+            "schema_version": "0.9.0"
+        },
+        {
+            "alias": "seq_alias_60a3dc9c98e2520001afc147",
+            "cell_barcode_offset": null,
+            "cell_barcode_read": null,
+            "cell_barcode_size": null,
+            "description": "WGS",
+            "flow_cell_id": null,
+            "flow_cell_type": null,
+            "has_attribute": null,
+            "instrument_model": "HiSeq X Ten",
+            "sample_barcode_read": null,
+            "seq_forward_or_reverse": null,
+            "sequencing_center": null,
+            "sequencing_read_length": null,
+            "target_coverage": null,
+            "type": null,
+            "umi_barcode_offset": null,
+            "umi_barcode_read": null,
+            "umi_barcode_size": null,
+            "schema_type": "CreateSequencingProtocol",
+            "schema_version": "0.9.0"
+        },
+        {
+            "alias": "libprep_60af589b98e2520001b05bbb",
+            "description": "2021-Master-H021-Uhrig-WGS-Paired-Illumina-Hiseq-Xten-Illumina-TruSeq-nano-DNA-part3",
+            "end_bias": null,
+            "has_attribute": null,
+            "library_layout": "PAIRED",
+            "library_name": "2021-Master-H021-Uhrig-WGS-Paired-Illumina-Hiseq-Xten-Illumina-TruSeq-nano-DNA-part3",
+            "library_preparation": null,
+            "library_preparation_kit_manufacturer": null,
+            "library_preparation_kit_retail_name": "Illumina TruSeq Nano DNA",
+            "library_selection": "unspecified",
+            "library_type": "GENOMIC",
+            "primer": null,
+            "rnaseq_strandedness": null,
+            "target_regions": null,
+            "schema_type": "CreateLibraryPreparationProtocol",
+            "schema_version": "0.9.0"
+        },
+        {
+            "alias": "seq_alias_60af589b98e2520001b05bbb",
+            "cell_barcode_offset": null,
+            "cell_barcode_read": null,
+            "cell_barcode_size": null,
+            "description": "WGS",
+            "flow_cell_id": null,
+            "flow_cell_type": null,
+            "has_attribute": null,
+            "instrument_model": "HiSeq X Ten",
+            "sample_barcode_read": null,
+            "seq_forward_or_reverse": null,
+            "sequencing_center": null,
+            "sequencing_read_length": null,
+            "target_coverage": null,
+            "type": null,
+            "umi_barcode_offset": null,
+            "umi_barcode_read": null,
+            "umi_barcode_size": null,
+            "schema_type": "CreateSequencingProtocol",
+            "schema_version": "0.9.0"
+        },
+        {
+            "alias": "libprep_6152df4e98e252000175fe31",
+            "description": "2021-Master-H021-Uhrig-WGS-Paired-Illumina-Hiseq-Xten-Illumina-TruSeq-nano-DNA-part12",
+            "end_bias": null,
+            "has_attribute": null,
+            "library_layout": "PAIRED",
+            "library_name": "2021-Master-H021-Uhrig-WGS-Paired-Illumina-Hiseq-Xten-Illumina-TruSeq-nano-DNA-part12",
+            "library_preparation": null,
+            "library_preparation_kit_manufacturer": null,
+            "library_preparation_kit_retail_name": "Illumina TruSeq Nano DNA",
+            "library_selection": "unspecified",
+            "library_type": "GENOMIC",
+            "primer": null,
+            "rnaseq_strandedness": null,
+            "target_regions": null,
+            "schema_type": "CreateLibraryPreparationProtocol",
+            "schema_version": "0.9.0"
+        },
+        {
+            "alias": "seq_alias_6152df4e98e252000175fe31",
+            "cell_barcode_offset": null,
+            "cell_barcode_read": null,
+            "cell_barcode_size": null,
+            "description": "WGS",
+            "flow_cell_id": null,
+            "flow_cell_type": null,
+            "has_attribute": null,
+            "instrument_model": "HiSeq X Ten",
+            "sample_barcode_read": null,
+            "seq_forward_or_reverse": null,
+            "sequencing_center": null,
+            "sequencing_read_length": null,
+            "target_coverage": null,
+            "type": null,
+            "umi_barcode_offset": null,
+            "umi_barcode_read": null,
+            "umi_barcode_size": null,
+            "schema_type": "CreateSequencingProtocol",
+            "schema_version": "0.9.0"
+        }
+    ],
+    "has_file": [
+        {
+            "alias": "ReMaster_File_0",
+            "checksum": "3676e0bdf4775f088975e8cf39255504",
+            "checksum_type": "MD5",
+            "format": "fastq",
+            "name": "ReMaster_File_0",
+            "size": 10885552085,
+            "schema_type": "CreateFile",
+            "schema_version": "0.9.0"
+        },
+        {
+            "alias": "ReMaster_File_1",
+            "checksum": "d3e4ab8940136c873c908309fdc62733",
+            "checksum_type": "MD5",
+            "format": "fastq",
+            "name": "ReMaster_File_1",
+            "size": 10343057568,
+            "schema_type": "CreateFile",
+            "schema_version": "0.9.0"
+        },
+        {
+            "alias": "ReMaster_File_2",
+            "checksum": "58ffe56dc0de006756c0540b62b22436",
+            "checksum_type": "MD5",
+            "format": "fastq",
+            "name": "ReMaster_File_2",
+            "size": 40551578568,
+            "schema_type": "CreateFile",
+            "schema_version": "0.9.0"
+        },
+        {
+            "alias": "ReMaster_File_3",
+            "checksum": "ac87013e52286566c638b2b795bcfbb0",
+            "checksum_type": "MD5",
+            "format": "fastq",
+            "name": "ReMaster_File_3",
+            "size": 47847939166,
+            "schema_type": "CreateFile",
+            "schema_version": "0.9.0"
+        },
+        {
+            "alias": "ReMaster_File_4",
+            "checksum": "3ec732153ce3e128a546a19a99ab505d",
+            "checksum_type": "MD5",
+            "format": "fastq",
+            "name": "ReMaster_File_4",
+            "size": 3199799830,
+            "schema_type": "CreateFile",
+            "schema_version": "0.9.0"
+        },
+        {
+            "alias": "ReMaster_File_5",
+            "checksum": "6045fa1a8f56f9eb64d54a090786ff46",
+            "checksum_type": "MD5",
+            "format": "fastq",
+            "name": "ReMaster_File_5",
+            "size": 3572481471,
+            "schema_type": "CreateFile",
+            "schema_version": "0.9.0"
+        },
+        {
+            "alias": "ReMaster_File_6",
+            "checksum": "b647c9a0ccf8e010defa4ae85e43b3d5",
+            "checksum_type": "MD5",
+            "format": "fastq",
+            "name": "ReMaster_File_6",
+            "size": 9938995031,
+            "schema_type": "CreateFile",
+            "schema_version": "0.9.0"
+        },
+        {
+            "alias": "ReMaster_File_7",
+            "checksum": "b8bbfe4766eb0115fcc5caac9707d59f",
+            "checksum_type": "MD5",
+            "format": "fastq",
+            "name": "ReMaster_File_7",
+            "size": 8984084477,
+            "schema_type": "CreateFile",
+            "schema_version": "0.9.0"
+        },
+        {
+            "alias": "ReMaster_File_8",
+            "checksum": "180de266d75825668b85d4273cb5f90d",
+            "checksum_type": "MD5",
+            "format": "fastq",
+            "name": "ReMaster_File_8",
+            "size": 2780436047,
+            "schema_type": "CreateFile",
+            "schema_version": "0.9.0"
+        },
+        {
+            "alias": "ReMaster_File_9",
+            "checksum": "0e74d57263a25ab83886a4968909b297",
+            "checksum_type": "MD5",
+            "format": "fastq",
+            "name": "ReMaster_File_9",
+            "size": 2642751956,
+            "schema_type": "CreateFile",
+            "schema_version": "0.9.0"
+        },
+        {
+            "alias": "ReMaster_File_10",
+            "checksum": "b76100c37e964b76ede1111f0f28ad95",
+            "checksum_type": "MD5",
+            "format": "fastq",
+            "name": "ReMaster_File_10",
+            "size": 2692032030,
+            "schema_type": "CreateFile",
+            "schema_version": "0.9.0"
+        },
+        {
+            "alias": "ReMaster_File_11",
+            "checksum": "d2fc1ce43335f4b31332ca6721c49361",
+            "checksum_type": "MD5",
+            "format": "fastq",
+            "name": "ReMaster_File_11",
+            "size": 2792074529,
+            "schema_type": "CreateFile",
+            "schema_version": "0.9.0"
+        },
+        {
+            "alias": "ReMaster_File_12",
+            "checksum": "db98c417ca9bfd467127f549b36e020b",
+            "checksum_type": "MD5",
+            "format": "fastq",
+            "name": "ReMaster_File_12",
+            "size": 3178796670,
+            "schema_type": "CreateFile",
+            "schema_version": "0.9.0"
+        },
+        {
+            "alias": "ReMaster_File_13",
+            "checksum": "129f0755493c0fd214376650f5b4ce34",
+            "checksum_type": "MD5",
+            "format": "fastq",
+            "name": "ReMaster_File_13",
+            "size": 2884817787,
+            "schema_type": "CreateFile",
+            "schema_version": "0.9.0"
+        },
+        {
+            "alias": "ReMaster_File_14",
+            "checksum": "d7c9d285d499b4b486cd01dffad2ab2f",
+            "checksum_type": "MD5",
+            "format": "fastq",
+            "name": "ReMaster_File_14",
+            "size": 2862902360,
+            "schema_type": "CreateFile",
+            "schema_version": "0.9.0"
+        },
+        {
+            "alias": "ReMaster_File_15",
+            "checksum": "a3a0bbf70716fac6622570df362670c5",
+            "checksum_type": "MD5",
+            "format": "fastq",
+            "name": "ReMaster_File_15",
+            "size": 3152677024,
+            "schema_type": "CreateFile",
+            "schema_version": "0.9.0"
+        },
+        {
+            "alias": "ReMaster_File_16",
+            "checksum": "c7a3ca92e9ef130a627ddbe604fb0af7",
+            "checksum_type": "MD5",
+            "format": "fastq",
+            "name": "ReMaster_File_16",
+            "size": 5303198382,
+            "schema_type": "CreateFile",
+            "schema_version": "0.9.0"
+        },
+        {
+            "alias": "ReMaster_File_17",
+            "checksum": "72aee2fd33c8ca4cffa1aee981c50f6e",
+            "checksum_type": "MD5",
+            "format": "fastq",
+            "name": "ReMaster_File_17",
+            "size": 5562996711,
+            "schema_type": "CreateFile",
+            "schema_version": "0.9.0"
+        },
+        {
+            "alias": "ReMaster_File_18",
+            "checksum": "f21f293fb4fc8a3860a4396a076038a1",
+            "checksum_type": "MD5",
+            "format": "fastq",
+            "name": "ReMaster_File_18",
+            "size": 3254052363,
+            "schema_type": "CreateFile",
+            "schema_version": "0.9.0"
+        },
+        {
+            "alias": "ReMaster_File_19",
+            "checksum": "3264c1da030216d450b5c58dc869d60b",
+            "checksum_type": "MD5",
+            "format": "fastq",
+            "name": "ReMaster_File_19",
+            "size": 3096807966,
+            "schema_type": "CreateFile",
+            "schema_version": "0.9.0"
+        },
+        {
+            "alias": "ReMaster_File_20",
+            "checksum": "dc58c04ff321d9a502ccb90b46ce4c3e",
+            "checksum_type": "MD5",
+            "format": "fastq",
+            "name": "ReMaster_File_20",
+            "size": 3107252845,
+            "schema_type": "CreateFile",
+            "schema_version": "0.9.0"
+        },
+        {
+            "alias": "ReMaster_File_21",
+            "checksum": "fd7dbdeb48f5b263cb3d4058269c69a3",
+            "checksum_type": "MD5",
+            "format": "fastq",
+            "name": "ReMaster_File_21",
+            "size": 3285902016,
+            "schema_type": "CreateFile",
+            "schema_version": "0.9.0"
+        },
+        {
+            "alias": "ReMaster_File_22",
+            "checksum": "d8fef7cd54b92652dcca5c8470540456",
+            "checksum_type": "MD5",
+            "format": "fastq",
+            "name": "ReMaster_File_22",
+            "size": 4746538838,
+            "schema_type": "CreateFile",
+            "schema_version": "0.9.0"
+        },
+        {
+            "alias": "ReMaster_File_23",
+            "checksum": "20856888c66eaef99b817c8399baedee",
+            "checksum_type": "MD5",
+            "format": "fastq",
+            "name": "ReMaster_File_23",
+            "size": 5051704612,
+            "schema_type": "CreateFile",
+            "schema_version": "0.9.0"
+        },
+        {
+            "alias": "ReMaster_File_24",
+            "checksum": "dd2d167e973605d65ea31c7391f43ea1",
+            "checksum_type": "MD5",
+            "format": "fastq",
+            "name": "ReMaster_File_24",
+            "size": 3714257024,
+            "schema_type": "CreateFile",
+            "schema_version": "0.9.0"
+        },
+        {
+            "alias": "ReMaster_File_25",
+            "checksum": "ca73fa5700d7de9fc8876f0e203c0a69",
+            "checksum_type": "MD5",
+            "format": "fastq",
+            "name": "ReMaster_File_25",
+            "size": 3383518033,
+            "schema_type": "CreateFile",
+            "schema_version": "0.9.0"
+        },
+        {
+            "alias": "ReMaster_File_26",
+            "checksum": "6ab3e0d886a489557642e68a0f8b8b82",
+            "checksum_type": "MD5",
+            "format": "fastq",
+            "name": "ReMaster_File_26",
+            "size": 3779827580,
+            "schema_type": "CreateFile",
+            "schema_version": "0.9.0"
+        },
+        {
+            "alias": "ReMaster_File_27",
+            "checksum": "7cf2a39741bbb8d53da05152a28e6828",
+            "checksum_type": "MD5",
+            "format": "fastq",
+            "name": "ReMaster_File_27",
+            "size": 3452008076,
+            "schema_type": "CreateFile",
+            "schema_version": "0.9.0"
+        },
+        {
+            "alias": "ReMaster_File_28",
+            "checksum": "9b3daa854decb37612f33d00f6622800",
+            "checksum_type": "MD5",
+            "format": "fastq",
+            "name": "ReMaster_File_28",
+            "size": 4304324481,
+            "schema_type": "CreateFile",
+            "schema_version": "0.9.0"
+        },
+        {
+            "alias": "ReMaster_File_29",
+            "checksum": "e0a84c7d3fa35660759ddf3a75a7d116",
+            "checksum_type": "MD5",
+            "format": "fastq",
+            "name": "ReMaster_File_29",
+            "size": 4030269272,
+            "schema_type": "CreateFile",
+            "schema_version": "0.9.0"
+        },
+        {
+            "alias": "ReMaster_File_30",
+            "checksum": "82c7e32f181c27928dc1d828fa6498e1",
+            "checksum_type": "MD5",
+            "format": "fastq",
+            "name": "ReMaster_File_30",
+            "size": 4376060469,
+            "schema_type": "CreateFile",
+            "schema_version": "0.9.0"
+        },
+        {
+            "alias": "ReMaster_File_31",
+            "checksum": "29e8bbe1f6a7d0b4917546b791dab2c6",
+            "checksum_type": "MD5",
+            "format": "fastq",
+            "name": "ReMaster_File_31",
+            "size": 4105748900,
+            "schema_type": "CreateFile",
+            "schema_version": "0.9.0"
+        },
+        {
+            "alias": "ReMaster_File_32",
+            "checksum": "8b49faf846eb7f94af66df417e37f741",
+            "checksum_type": "MD5",
+            "format": "fastq",
+            "name": "ReMaster_File_32",
+            "size": 39854931677,
+            "schema_type": "CreateFile",
+            "schema_version": "0.9.0"
+        },
+        {
+            "alias": "ReMaster_File_33",
+            "checksum": "c17018e0a8b0e237ed8df8fb466e6c71",
+            "checksum_type": "MD5",
+            "format": "fastq",
+            "name": "ReMaster_File_33",
+            "size": 37609898835,
+            "schema_type": "CreateFile",
+            "schema_version": "0.9.0"
+        },
+        {
+            "alias": "ReMaster_File_34",
+            "checksum": "fb7c3ae09c2952082ed135c00100f06b",
+            "checksum_type": "MD5",
+            "format": "fastq",
+            "name": "ReMaster_File_34",
+            "size": 3473792471,
+            "schema_type": "CreateFile",
+            "schema_version": "0.9.0"
+        },
+        {
+            "alias": "ReMaster_File_35",
+            "checksum": "682228597ce92ff3934ea9c8dffc4433",
+            "checksum_type": "MD5",
+            "format": "fastq",
+            "name": "ReMaster_File_35",
+            "size": 3553705229,
+            "schema_type": "CreateFile",
+            "schema_version": "0.9.0"
+        },
+        {
+            "alias": "ReMaster_File_36",
+            "checksum": "836c022ecb1478e4abe308e07fbade6a",
+            "checksum_type": "MD5",
+            "format": "fastq",
+            "name": "ReMaster_File_36",
+            "size": 4042188169,
+            "schema_type": "CreateFile",
+            "schema_version": "0.9.0"
+        },
+        {
+            "alias": "ReMaster_File_37",
+            "checksum": "864ebd6af4d41b08c891164b03db89b3",
+            "checksum_type": "MD5",
+            "format": "fastq",
+            "name": "ReMaster_File_37",
+            "size": 4236523121,
+            "schema_type": "CreateFile",
+            "schema_version": "0.9.0"
+        },
+        {
+            "alias": "ReMaster_File_38",
+            "checksum": "94b628246fbb9c0f7f71d5dcd389076a",
+            "checksum_type": "MD5",
+            "format": "fastq",
+            "name": "ReMaster_File_38",
+            "size": 5103446272,
+            "schema_type": "CreateFile",
+            "schema_version": "0.9.0"
+        },
+        {
+            "alias": "ReMaster_File_39",
+            "checksum": "955e73a676d4af80c828aee056f833a4",
+            "checksum_type": "MD5",
+            "format": "fastq",
+            "name": "ReMaster_File_39",
+            "size": 4761846158,
+            "schema_type": "CreateFile",
+            "schema_version": "0.9.0"
+        },
+        {
+            "alias": "ReMaster_File_40",
+            "checksum": "479ee68f4aad8d1cb9b1a773c7bcac6c",
+            "checksum_type": "MD5",
+            "format": "fastq",
+            "name": "ReMaster_File_40",
+            "size": 4901192968,
+            "schema_type": "CreateFile",
+            "schema_version": "0.9.0"
+        },
+        {
+            "alias": "ReMaster_File_41",
+            "checksum": "4623762155fbdb2500ab1d285885a384",
+            "checksum_type": "MD5",
+            "format": "fastq",
+            "name": "ReMaster_File_41",
+            "size": 5200377124,
+            "schema_type": "CreateFile",
+            "schema_version": "0.9.0"
+        },
+        {
+            "alias": "ReMaster_File_42",
+            "checksum": "0addb4ce28d1a263812d67ef27085fc5",
+            "checksum_type": "MD5",
+            "format": "fastq",
+            "name": "ReMaster_File_42",
+            "size": 3409159720,
+            "schema_type": "CreateFile",
+            "schema_version": "0.9.0"
+        },
+        {
+            "alias": "ReMaster_File_43",
+            "checksum": "9dd9ad28b8eda2c1736d89a26f78cf45",
+            "checksum_type": "MD5",
+            "format": "fastq",
+            "name": "ReMaster_File_43",
+            "size": 3351015005,
+            "schema_type": "CreateFile",
+            "schema_version": "0.9.0"
+        },
+        {
+            "alias": "ReMaster_File_44",
+            "checksum": "119be0f5d1209be2ce44c6236931ad8e",
+            "checksum_type": "MD5",
+            "format": "fastq",
+            "name": "ReMaster_File_44",
+            "size": 3237973901,
+            "schema_type": "CreateFile",
+            "schema_version": "0.9.0"
+        },
+        {
+            "alias": "ReMaster_File_45",
+            "checksum": "a66479058dcaf33e306fc5f4c553b910",
+            "checksum_type": "MD5",
+            "format": "fastq",
+            "name": "ReMaster_File_45",
+            "size": 3438187871,
+            "schema_type": "CreateFile",
+            "schema_version": "0.9.0"
+        },
+        {
+            "alias": "ReMaster_File_46",
+            "checksum": "2f49208033132ad6d58a91802f1564e6",
+            "checksum_type": "MD5",
+            "format": "bam",
+            "name": "ReMaster_File_46",
+            "size": 149047981839,
+            "schema_type": "CreateFile",
+            "schema_version": "0.9.0"
+        },
+        {
+            "alias": "ReMaster_File_47",
+            "checksum": "7618aabddcd53ce4c6271b1f74808e13",
+            "checksum_type": "MD5",
+            "format": "bam",
+            "name": "ReMaster_File_47",
+            "size": 151175892579,
+            "schema_type": "CreateFile",
+            "schema_version": "0.9.0"
+        },
+        {
+            "alias": "ReMaster_File_48",
+            "checksum": "895f1ccadd2368e57a337d0b1ec25afa",
+            "checksum_type": "MD5",
+            "format": "bam",
+            "name": "ReMaster_File_48",
+            "size": 174042801520,
+            "schema_type": "CreateFile",
+            "schema_version": "0.9.0"
+        },
+        {
+            "alias": "ReMaster_File_49",
+            "checksum": "dd2246dd750aab24d17f4db91599a2cb",
+            "checksum_type": "MD5",
+            "format": "bam",
+            "name": "ReMaster_File_49",
+            "size": 143010714912,
+            "schema_type": "CreateFile",
+            "schema_version": "0.9.0"
+        },
+        {
+            "alias": "ReMaster_File_50",
+            "checksum": "3511e6857c8716248a2c474e727b8377",
+            "checksum_type": "MD5",
+            "format": "bam",
+            "name": "ReMaster_File_50",
+            "size": 128804134194,
+            "schema_type": "CreateFile",
+            "schema_version": "0.9.0"
+        },
+        {
+            "alias": "ReMaster_File_51",
+            "checksum": "8af5d3048b3bcbe447e894b5c18b5ac5",
+            "checksum_type": "MD5",
+            "format": "bam",
+            "name": "ReMaster_File_51",
+            "size": 125705796215,
+            "schema_type": "CreateFile",
+            "schema_version": "0.9.0"
+        }
+    ],
+    "has_biospecimen": [],
+    "has_individual": [
+        {
+            "age": "unknown",
+            "alias": "EGA_PID_01",
+            "geographical_region": null,
+            "has_phenotypic_feature": null,
+            "karyotype": null,
+            "has_ancestry": null,
+            "sex": "male",
+            "vital_status": "unknown",
+            "schema_type": "CreateIndividual",
+            "schema_version": "0.9.0"
+        },
+        {
+            "age": "unknown",
+            "alias": "EGA_PID_02",
+            "geographical_region": null,
+            "has_phenotypic_feature": null,
+            "karyotype": null,
+            "has_ancestry": null,
+            "sex": "female",
+            "vital_status": "unknown",
+            "schema_type": "CreateIndividual",
+            "schema_version": "0.9.0"
+        },
+        {
+            "age": "unknown",
+            "alias": "EGA_PID_03",
+            "geographical_region": null,
+            "has_phenotypic_feature": null,
+            "karyotype": null,
+            "has_ancestry": null,
+            "sex": "male",
+            "vital_status": "unknown",
+            "schema_type": "CreateIndividual",
+            "schema_version": "0.9.0"
+        },
+        {
+            "age": "unknown",
+            "alias": "EGA_PID_04",
+            "geographical_region": null,
+            "has_phenotypic_feature": null,
+            "karyotype": null,
+            "has_ancestry": null,
+            "sex": "male",
+            "vital_status": "unknown",
+            "schema_type": "CreateIndividual",
+            "schema_version": "0.9.0"
+        },
+        {
+            "age": "unknown",
+            "alias": "EGA_PID_05",
+            "geographical_region": null,
+            "has_phenotypic_feature": null,
+            "karyotype": null,
+            "has_ancestry": null,
+            "sex": "male",
+            "vital_status": "unknown",
+            "schema_type": "CreateIndividual",
+            "schema_version": "0.9.0"
+        },
+        {
+            "age": "unknown",
+            "alias": "EGA_PID_06",
+            "geographical_region": null,
+            "has_phenotypic_feature": null,
+            "karyotype": null,
+            "has_ancestry": null,
+            "sex": "male",
+            "vital_status": "unknown",
+            "schema_type": "CreateIndividual",
+            "schema_version": "0.9.0"
+        },
+        {
+            "age": "unknown",
+            "alias": "EGA_PID_07",
+            "geographical_region": null,
+            "has_phenotypic_feature": null,
+            "karyotype": null,
+            "has_ancestry": null,
+            "sex": "female",
+            "vital_status": "unknown",
+            "schema_type": "CreateIndividual",
+            "schema_version": "0.9.0"
+        },
+        {
+            "age": "unknown",
+            "alias": "EGA_PID_08",
+            "geographical_region": null,
+            "has_phenotypic_feature": null,
+            "karyotype": null,
+            "has_ancestry": null,
+            "sex": "male",
+            "vital_status": "unknown",
+            "schema_type": "CreateIndividual",
+            "schema_version": "0.9.0"
+        },
+        {
+            "age": "unknown",
+            "alias": "EGA_PID_09",
+            "geographical_region": null,
+            "has_phenotypic_feature": null,
+            "karyotype": null,
+            "has_ancestry": null,
+            "sex": "male",
+            "vital_status": "unknown",
+            "schema_type": "CreateIndividual",
+            "schema_version": "0.9.0"
+        },
+        {
+            "age": "unknown",
+            "alias": "EGA_PID_10",
+            "geographical_region": null,
+            "has_phenotypic_feature": null,
+            "karyotype": null,
+            "has_ancestry": null,
+            "sex": "male",
+            "vital_status": "unknown",
+            "schema_type": "CreateIndividual",
+            "schema_version": "0.9.0"
+        },
+        {
+            "age": "unknown",
+            "alias": "EGA_PID_11",
+            "geographical_region": null,
+            "has_phenotypic_feature": null,
+            "karyotype": null,
+            "has_ancestry": null,
+            "sex": "male",
+            "vital_status": "unknown",
+            "schema_type": "CreateIndividual",
+            "schema_version": "0.9.0"
+        },
+        {
+            "age": "unknown",
+            "alias": "EGA_PID_12",
+            "geographical_region": null,
+            "has_phenotypic_feature": null,
+            "karyotype": null,
+            "has_ancestry": null,
+            "sex": "male",
+            "vital_status": "unknown",
+            "schema_type": "CreateIndividual",
+            "schema_version": "0.9.0"
+        },
+        {
+            "age": "unknown",
+            "alias": "EGA_PID_13",
+            "geographical_region": null,
+            "has_phenotypic_feature": null,
+            "karyotype": null,
+            "has_ancestry": null,
+            "sex": "female",
+            "vital_status": "unknown",
+            "schema_type": "CreateIndividual",
+            "schema_version": "0.9.0"
+        },
+        {
+            "age": "unknown",
+            "alias": "EGA_PID_14",
+            "geographical_region": null,
+            "has_phenotypic_feature": null,
+            "karyotype": null,
+            "has_ancestry": null,
+            "sex": "female",
+            "vital_status": "unknown",
+            "schema_type": "CreateIndividual",
+            "schema_version": "0.9.0"
+        },
+        {
+            "age": "unknown",
+            "alias": "EGA_PID_15",
+            "geographical_region": null,
+            "has_phenotypic_feature": null,
+            "karyotype": null,
+            "has_ancestry": null,
+            "sex": "female",
+            "vital_status": "unknown",
+            "schema_type": "CreateIndividual",
+            "schema_version": "0.9.0"
+        },
+        {
+            "age": "unknown",
+            "alias": "EGA_PID_16",
+            "geographical_region": null,
+            "has_phenotypic_feature": null,
+            "karyotype": null,
+            "has_ancestry": null,
+            "sex": "female",
+            "vital_status": "unknown",
+            "schema_type": "CreateIndividual",
+            "schema_version": "0.9.0"
+        },
+        {
+            "age": "unknown",
+            "alias": "EGA_PID_17",
+            "geographical_region": null,
+            "has_phenotypic_feature": null,
+            "karyotype": null,
+            "has_ancestry": null,
+            "sex": "female",
+            "vital_status": "unknown",
+            "schema_type": "CreateIndividual",
+            "schema_version": "0.9.0"
+        },
+        {
+            "age": "unknown",
+            "alias": "EGA_PID_18",
+            "geographical_region": null,
+            "has_phenotypic_feature": null,
+            "karyotype": null,
+            "has_ancestry": null,
+            "sex": "male",
+            "vital_status": "unknown",
+            "schema_type": "CreateIndividual",
+            "schema_version": "0.9.0"
+        },
+        {
+            "age": "unknown",
+            "alias": "EGA_PID_19",
+            "geographical_region": null,
+            "has_phenotypic_feature": null,
+            "karyotype": null,
+            "has_ancestry": null,
+            "sex": "male",
+            "vital_status": "unknown",
+            "schema_type": "CreateIndividual",
+            "schema_version": "0.9.0"
+        },
+        {
+            "age": "unknown",
+            "alias": "EGA_PID_20",
+            "geographical_region": null,
+            "has_phenotypic_feature": null,
+            "karyotype": null,
+            "has_ancestry": null,
+            "sex": "male",
+            "vital_status": "unknown",
+            "schema_type": "CreateIndividual",
+            "schema_version": "0.9.0"
+        },
+        {
+            "age": "unknown",
+            "alias": "EGA_PID_21",
+            "geographical_region": null,
+            "has_phenotypic_feature": null,
+            "karyotype": null,
+            "has_ancestry": null,
+            "sex": "male",
+            "vital_status": "unknown",
+            "schema_type": "CreateIndividual",
+            "schema_version": "0.9.0"
+        },
+        {
+            "age": "unknown",
+            "alias": "EGA_PID_22",
+            "geographical_region": null,
+            "has_phenotypic_feature": null,
+            "karyotype": null,
+            "has_ancestry": null,
+            "sex": "female",
+            "vital_status": "unknown",
+            "schema_type": "CreateIndividual",
+            "schema_version": "0.9.0"
+        }
+    ],
+    "has_sample": [
+        {
+            "alias": "EGAN00003046295",
+            "case_control_status": "case",
+            "description": "synovial sarcoma (ICD-10: C49, ICD-O-3: 9041)",
+            "has_attribute": null,
+            "has_anatomical_entity": [
+                {
+                    "concept_name": "metastasis",
+                    "schema_type": "CreateAnatomicalEntity",
+                    "schema_version": "0.9.0"
+                }
+            ],
+            "has_biospecimen": null,
+            "has_individual": "EGA_PID_01",
+            "isolation": null,
+            "name": "EGAN00003046295",
+            "storage": null,
+            "type": "T",
+            "vital_status_at_sampling": null,
+            "xref": null,
+            "schema_type": "CreateSample",
+            "schema_version": "0.9.0"
+        },
+        {
+            "alias": "EGAN00003046324",
+            "case_control_status": "case",
+            "description": "synovial sarcoma (ICD-10: C49, ICD-O-3: 9041)",
+            "has_attribute": null,
+            "has_anatomical_entity": [
+                {
+                    "concept_name": "tumor",
+                    "schema_type": "CreateAnatomicalEntity",
+                    "schema_version": "0.9.0"
+                }
+            ],
+            "has_biospecimen": null,
+            "has_individual": "EGA_PID_02",
+            "isolation": null,
+            "name": "EGAN00003046324",
+            "storage": null,
+            "type": "T",
+            "vital_status_at_sampling": null,
+            "xref": null,
+            "schema_type": "CreateSample",
+            "schema_version": "0.9.0"
+        },
+        {
+            "alias": "EGAN00003046473",
+            "case_control_status": "case",
+            "description": "synovial sarcoma (ICD-10: C49, ICD-O-3: 9041)",
+            "has_attribute": null,
+            "has_anatomical_entity": [
+                {
+                    "concept_name": "tumor",
+                    "schema_type": "CreateAnatomicalEntity",
+                    "schema_version": "0.9.0"
+                }
+            ],
+            "has_biospecimen": null,
+            "has_individual": "EGA_PID_03",
+            "isolation": null,
+            "name": "EGAN00003046473",
+            "storage": null,
+            "type": "T",
+            "vital_status_at_sampling": null,
+            "xref": null,
+            "schema_type": "CreateSample",
+            "schema_version": "0.9.0"
+        },
+        {
+            "alias": "EGAN00003046474",
+            "case_control_status": "case",
+            "description": "synovial sarcoma (ICD-10: C49, ICD-O-3: 9040)",
+            "has_attribute": null,
+            "has_anatomical_entity": [
+                {
+                    "concept_name": "metastasis",
+                    "schema_type": "CreateAnatomicalEntity",
+                    "schema_version": "0.9.0"
+                }
+            ],
+            "has_biospecimen": null,
+            "has_individual": "EGA_PID_04",
+            "isolation": null,
+            "name": "EGAN00003046474",
+            "storage": null,
+            "type": "T",
+            "vital_status_at_sampling": null,
+            "xref": null,
+            "schema_type": "CreateSample",
+            "schema_version": "0.9.0"
+        },
+        {
+            "alias": "EGAN00003046475",
+            "case_control_status": "case",
+            "description": "synovial sarcoma (ICD-10: C49, ICD-O-3: 9040)",
+            "has_attribute": null,
+            "has_anatomical_entity": [
+                {
+                    "concept_name": "tumor",
+                    "schema_type": "CreateAnatomicalEntity",
+                    "schema_version": "0.9.0"
+                }
+            ],
+            "has_biospecimen": null,
+            "has_individual": "EGA_PID_05",
+            "isolation": null,
+            "name": "EGAN00003046475",
+            "storage": null,
+            "type": "T",
+            "vital_status_at_sampling": null,
+            "xref": null,
+            "schema_type": "CreateSample",
+            "schema_version": "0.9.0"
+        },
+        {
+            "alias": "EGAN00003046664",
+            "case_control_status": "case",
+            "description": "synovial sarcoma (ICD-10: C49, ICD-O-3: 9043)",
+            "has_attribute": null,
+            "has_anatomical_entity": [
+                {
+                    "concept_name": "tumor",
+                    "schema_type": "CreateAnatomicalEntity",
+                    "schema_version": "0.9.0"
+                }
+            ],
+            "has_biospecimen": null,
+            "has_individual": "EGA_PID_06",
+            "isolation": null,
+            "name": "EGAN00003046664",
+            "storage": null,
+            "type": "T",
+            "vital_status_at_sampling": null,
+            "xref": null,
+            "schema_type": "CreateSample",
+            "schema_version": "0.9.0"
+        },
+        {
+            "alias": "EGAN00003046652",
+            "case_control_status": "case",
+            "description": "synovial sarcoma (ICD-10: C34, ICD-O-3: 9040)",
+            "has_attribute": null,
+            "has_anatomical_entity": [
+                {
+                    "concept_name": "tumor",
+                    "schema_type": "CreateAnatomicalEntity",
+                    "schema_version": "0.9.0"
+                }
+            ],
+            "has_biospecimen": null,
+            "has_individual": "EGA_PID_07",
+            "isolation": null,
+            "name": "EGAN00003046652",
+            "storage": null,
+            "type": "T",
+            "vital_status_at_sampling": null,
+            "xref": null,
+            "schema_type": "CreateSample",
+            "schema_version": "0.9.0"
+        },
+        {
+            "alias": "EGAN00003046271",
+            "case_control_status": "case",
+            "description": "synovial sarcoma (ICD-10: C49, ICD-O-3: 9040)",
+            "has_attribute": null,
+            "has_anatomical_entity": [
+                {
+                    "concept_name": "metastasis",
+                    "schema_type": "CreateAnatomicalEntity",
+                    "schema_version": "0.9.0"
+                }
+            ],
+            "has_biospecimen": null,
+            "has_individual": "EGA_PID_08",
+            "isolation": null,
+            "name": "EGAN00003046271",
+            "storage": null,
+            "type": "T",
+            "vital_status_at_sampling": null,
+            "xref": null,
+            "schema_type": "CreateSample",
+            "schema_version": "0.9.0"
+        },
+        {
+            "alias": "EGAN00003046396",
+            "case_control_status": "case",
+            "description": "synovial sarcoma (ICD-10: C49, ICD-O-3: 9041)",
+            "has_attribute": null,
+            "has_anatomical_entity": [
+                {
+                    "concept_name": "tumor04",
+                    "schema_type": "CreateAnatomicalEntity",
+                    "schema_version": "0.9.0"
+                }
+            ],
+            "has_biospecimen": null,
+            "has_individual": "EGA_PID_09",
+            "isolation": null,
+            "name": "EGAN00003046396",
+            "storage": null,
+            "type": "T",
+            "vital_status_at_sampling": null,
+            "xref": null,
+            "schema_type": "CreateSample",
+            "schema_version": "0.9.0"
+        },
+        {
+            "alias": "EGAN00003046563",
+            "case_control_status": "case",
+            "description": "synovial sarcoma (ICD-10: C49, ICD-O-3: 9041)",
+            "has_attribute": null,
+            "has_anatomical_entity": [
+                {
+                    "concept_name": "tumor",
+                    "schema_type": "CreateAnatomicalEntity",
+                    "schema_version": "0.9.0"
+                }
+            ],
+            "has_biospecimen": null,
+            "has_individual": "EGA_PID_10",
+            "isolation": null,
+            "name": "EGAN00003046563",
+            "storage": null,
+            "type": "T",
+            "vital_status_at_sampling": null,
+            "xref": null,
+            "schema_type": "CreateSample",
+            "schema_version": "0.9.0"
+        },
+        {
+            "alias": "EGAN00003046572",
+            "case_control_status": "case",
+            "description": "synovial sarcoma (ICD-10: C49, ICD-O-3: 9040)",
+            "has_attribute": null,
+            "has_anatomical_entity": [
+                {
+                    "concept_name": "tumor",
+                    "schema_type": "CreateAnatomicalEntity",
+                    "schema_version": "0.9.0"
+                }
+            ],
+            "has_biospecimen": null,
+            "has_individual": "EGA_PID_11",
+            "isolation": null,
+            "name": "EGAN00003046572",
+            "storage": null,
+            "type": "T",
+            "vital_status_at_sampling": null,
+            "xref": null,
+            "schema_type": "CreateSample",
+            "schema_version": "0.9.0"
+        },
+        {
+            "alias": "EGAN00003046575",
+            "case_control_status": "case",
+            "description": "synovial sarcoma (ICD-10: C49, ICD-O-3: 9040)",
+            "has_attribute": null,
+            "has_anatomical_entity": [
+                {
+                    "concept_name": "tumor04",
+                    "schema_type": "CreateAnatomicalEntity",
+                    "schema_version": "0.9.0"
+                }
+            ],
+            "has_biospecimen": null,
+            "has_individual": "EGA_PID_12",
+            "isolation": null,
+            "name": "EGAN00003046575",
+            "storage": null,
+            "type": "T",
+            "vital_status_at_sampling": null,
+            "xref": null,
+            "schema_type": "CreateSample",
+            "schema_version": "0.9.0"
+        },
+        {
+            "alias": "EGAN00003046411",
+            "case_control_status": "case",
+            "description": "synovial sarcoma (ICD-10: C44, ICD-O-3: 8402)",
+            "has_attribute": null,
+            "has_anatomical_entity": [
+                {
+                    "concept_name": "metastasis",
+                    "schema_type": "CreateAnatomicalEntity",
+                    "schema_version": "0.9.0"
+                }
+            ],
+            "has_biospecimen": null,
+            "has_individual": "EGA_PID_13",
+            "isolation": null,
+            "name": "EGAN00003046411",
+            "storage": null,
+            "type": "T",
+            "vital_status_at_sampling": null,
+            "xref": null,
+            "schema_type": "CreateSample",
+            "schema_version": "0.9.0"
+        },
+        {
+            "alias": "EGAN00003046413",
+            "case_control_status": "case",
+            "description": "synovial sarcoma (ICD-10: C49, ICD-O-3: 9040)",
+            "has_attribute": null,
+            "has_anatomical_entity": [
+                {
+                    "concept_name": "tumor02",
+                    "schema_type": "CreateAnatomicalEntity",
+                    "schema_version": "0.9.0"
+                }
+            ],
+            "has_biospecimen": null,
+            "has_individual": "EGA_PID_14",
+            "isolation": null,
+            "name": "EGAN00003046413",
+            "storage": null,
+            "type": "T",
+            "vital_status_at_sampling": null,
+            "xref": null,
+            "schema_type": "CreateSample",
+            "schema_version": "0.9.0"
+        },
+        {
+            "alias": "EGAN00003046247",
+            "case_control_status": "case",
+            "description": "synovial sarcoma (ICD-10: C49, ICD-O-3: 9040)",
+            "has_attribute": null,
+            "has_anatomical_entity": [
+                {
+                    "concept_name": "metastasis",
+                    "schema_type": "CreateAnatomicalEntity",
+                    "schema_version": "0.9.0"
+                }
+            ],
+            "has_biospecimen": null,
+            "has_individual": "EGA_PID_15",
+            "isolation": null,
+            "name": "EGAN00003046247",
+            "storage": null,
+            "type": "T",
+            "vital_status_at_sampling": null,
+            "xref": null,
+            "schema_type": "CreateSample",
+            "schema_version": "0.9.0"
+        },
+        {
+            "alias": "EGAN00003046282",
+            "case_control_status": "case",
+            "description": "synovial sarcoma (ICD-10: C49, ICD-O-3: 9040)",
+            "has_attribute": null,
+            "has_anatomical_entity": [
+                {
+                    "concept_name": "metastasis",
+                    "schema_type": "CreateAnatomicalEntity",
+                    "schema_version": "0.9.0"
+                }
+            ],
+            "has_biospecimen": null,
+            "has_individual": "EGA_PID_16",
+            "isolation": null,
+            "name": "EGAN00003046282",
+            "storage": null,
+            "type": "T",
+            "vital_status_at_sampling": null,
+            "xref": null,
+            "schema_type": "CreateSample",
+            "schema_version": "0.9.0"
+        },
+        {
+            "alias": "EGAN00003149968",
+            "case_control_status": "control",
+            "description": "Blood",
+            "has_attribute": null,
+            "has_anatomical_entity": [
+                {
+                    "concept_name": "tumor",
+                    "schema_type": "CreateAnatomicalEntity",
+                    "schema_version": "0.9.0"
+                }
+            ],
+            "has_biospecimen": null,
+            "has_individual": "EGA_PID_17",
+            "isolation": null,
+            "name": "EGAN00003149968",
+            "storage": null,
+            "type": "N",
+            "vital_status_at_sampling": null,
+            "xref": null,
+            "schema_type": "CreateSample",
+            "schema_version": "0.9.0"
+        },
+        {
+            "alias": "EGAN00003150123",
+            "case_control_status": "control",
+            "description": "Blood",
+            "has_attribute": null,
+            "has_anatomical_entity": [
+                {
+                    "concept_name": "tumor",
+                    "schema_type": "CreateAnatomicalEntity",
+                    "schema_version": "0.9.0"
+                }
+            ],
+            "has_biospecimen": null,
+            "has_individual": "EGA_PID_18",
+            "isolation": null,
+            "name": "EGAN00003150123",
+            "storage": null,
+            "type": "N",
+            "vital_status_at_sampling": null,
+            "xref": null,
+            "schema_type": "CreateSample",
+            "schema_version": "0.9.0"
+        },
+        {
+            "alias": "EGAN00003149847",
+            "case_control_status": "control",
+            "description": "Blood",
+            "has_attribute": null,
+            "has_anatomical_entity": [
+                {
+                    "concept_name": "tumor",
+                    "schema_type": "CreateAnatomicalEntity",
+                    "schema_version": "0.9.0"
+                }
+            ],
+            "has_biospecimen": null,
+            "has_individual": "EGA_PID_19",
+            "isolation": null,
+            "name": "EGAN00003149847",
+            "storage": null,
+            "type": "N",
+            "vital_status_at_sampling": null,
+            "xref": null,
+            "schema_type": "CreateSample",
+            "schema_version": "0.9.0"
+        },
+        {
+            "alias": "EGAN00003149857",
+            "case_control_status": "case",
+            "description": "synovial sarcoma (ICD-10: C49, ICD-O-3: 9040)",
+            "has_attribute": null,
+            "has_anatomical_entity": [
+                {
+                    "concept_name": "metastasis",
+                    "schema_type": "CreateAnatomicalEntity",
+                    "schema_version": "0.9.0"
+                }
+            ],
+            "has_biospecimen": null,
+            "has_individual": "EGA_PID_20",
+            "isolation": null,
+            "name": "EGAN00003149857",
+            "storage": null,
+            "type": "T",
+            "vital_status_at_sampling": null,
+            "xref": null,
+            "schema_type": "CreateSample",
+            "schema_version": "0.9.0"
+        },
+        {
+            "alias": "EGAN00003150124",
+            "case_control_status": "case",
+            "description": "synovial sarcoma (ICD-10: C49, ICD-O-3: 9040)",
+            "has_attribute": null,
+            "has_anatomical_entity": [
+                {
+                    "concept_name": "metastasis",
+                    "schema_type": "CreateAnatomicalEntity",
+                    "schema_version": "0.9.0"
+                }
+            ],
+            "has_biospecimen": null,
+            "has_individual": "EGA_PID_21",
+            "isolation": null,
+            "name": "EGAN00003150124",
+            "storage": null,
+            "type": "T",
+            "vital_status_at_sampling": null,
+            "xref": null,
+            "schema_type": "CreateSample",
+            "schema_version": "0.9.0"
+        },
+        {
+            "alias": "EGAN00003149965",
+            "case_control_status": "case",
+            "description": "synovial sarcoma (ICD-10: C49, ICD-O-3: 9040)",
+            "has_attribute": null,
+            "has_anatomical_entity": [
+                {
+                    "concept_name": "tumor",
+                    "schema_type": "CreateAnatomicalEntity",
+                    "schema_version": "0.9.0"
+                }
+            ],
+            "has_biospecimen": null,
+            "has_individual": "EGA_PID_22",
+            "isolation": null,
+            "name": "EGAN00003149965",
+            "storage": null,
+            "type": "T",
+            "vital_status_at_sampling": null,
+            "xref": null,
+            "schema_type": "CreateSample",
+            "schema_version": "0.9.0"
+        }
+    ],
+    "schema_type": "CreateSubmission",
+    "schema_version": "0.9.0"
+}
